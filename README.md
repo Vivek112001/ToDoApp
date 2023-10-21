@@ -1,6 +1,3 @@
-
-# My To Do App
-
 # MyToDo App
 
 MyToDo App is a comprehensive full-stack web application that offers a streamlined solution for managing your tasks and to-do lists. Built with a combination of JSP, Bootstrap, Java, MySQL database, Spring, and Spring Boot, this project exemplifies modern web development techniques and practices.
